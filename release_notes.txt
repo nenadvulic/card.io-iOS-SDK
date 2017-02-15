@@ -1,8 +1,5 @@
 card.io iOS SDK release notes
 =============================
-5.4.2 (Wed 02/15/2017)
-
-* Expose to public API region of interest below credit card numbers (holder name)
 
 5.4.1 (Fri 09/16/2016)
 
